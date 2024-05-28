@@ -4,7 +4,7 @@ Este projeto foi desenvolvido com o intuito de compartilhar conhecimento sobre b
 
 ## Inicializando o projeto
 
-Providencie os valores para o arquivo .env
+Providencie os valores para o arquivo .env 
 
 1 - Providencie a api key do [Gemini](https://ai.google.dev/)
 
