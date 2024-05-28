@@ -15,7 +15,7 @@ npm install
 npm run dev
 ```
 
-Acesse [http://localhost:3000](http://localhost:3000) no seu browser para ver o resultado.
+Acesse [http://localhost:3000](http://localhost:3000) no seu browser para ver o resultado. 
 
 ## Recursos disponíveis
 
