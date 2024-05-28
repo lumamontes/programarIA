@@ -1,6 +1,6 @@
 # ProgramarIA
 
-Este projeto foi desenvolvido com o intuito de compartilhar conhecimento sobre boas práticas de desenvolvimento, como utilizar o Gemini e a importância de testes automatizados durante o desenvolvimento.
+Este projeto foi desenvolvido com o intuito de compartilhar conhecimento sobre boas práticas de desenvolvimento, como utilizar o Gemini e a importância de testes automatizados durante o desenvolvimento. 
 
 ## Inicializando o projeto
 
